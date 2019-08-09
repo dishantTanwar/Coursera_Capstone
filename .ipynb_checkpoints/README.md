@@ -114,10 +114,10 @@ In the following figure there is a graphical example of how a K-Means algorithm 
 <p align="justify">The K-Means clustering algorithm is used for finding similiraties between all the neighborhoods listed in the feature matrix. The elbow method is used for selecting the appropriate number of clusters. Hence, the K selected is 5. Results show that there are 2 major groups and 2 minor groups. In adition, there is one group that contains only one neighborhood that is isolated from others. The description of the clusters is the following:</p>
 
 **Cluster**
-* I: Neighborhoods that have around parks, bus lines and sandwich places.
-* II: Neighborhoods that have around parks, playgrounds and trails.
-* III: Neighborhoods that have around coffee shops, pubs and italian restaurants.
-* IV: Neighborhood that have around gardens.
-* V: Neighborhoods that have around coffee shops, parks and bakeries.
+* I: Neighbourhood has Cafe, Italian Restaurants, Sandwich Place, Coffee Shops..
+* II: Neighbourhood has Parks, Playgrounds and Trails.
+* III:Neighbourhood has Food and Drink Shop, Parks and Sandwich Shop.
+* IV: Neighbourhood has Bar, Café, Italian Restaurant, Park, Trail, Coffee Shop, Music         Venue, Playground
+* V: Neighbourhood has Music Venues, Home Services and Gardens
 
 Finally, any user who wants to move from manhattan to toronto and viceversa can use this system  to get a notion or idea about what is the best suitable place for him. 
